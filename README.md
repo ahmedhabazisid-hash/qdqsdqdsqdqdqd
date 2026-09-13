@@ -1,4 +1,4 @@
-[Xbinnopub.lua.txt](https://github.com/user-attachments/files/32165007/Xbinnopub.lua.txt)
+
 if not game:IsLoaded() then game.Loaded:wait() end
 -- ============================================================
 -- SLOT ESP (Animal Podium blue box outlines)
